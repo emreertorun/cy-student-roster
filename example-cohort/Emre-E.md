@@ -1,0 +1,5 @@
+- Name:Emre Ertorun
+- Likes:Excel, Whisky,  
+- Dislikes: Lie
+- Favourite Quote:Limit is the sky
+- GitHub Profile URL: https://github.com/emreertorun
